@@ -1,2 +1,1 @@
-# Azure_AD_Authentication
-CTS_Project
+CTS_PROJECT
