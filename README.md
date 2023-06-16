@@ -1,1 +1,3 @@
-CTS_PROJECT
+CTS Cafe
+Azure AD Authentication
+
